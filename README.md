@@ -1,7 +1,8 @@
 
 # AutoHotKey-MINILA
 
-このリポジトリには、FILCO Majestouch MINILAのキー配置を模擬したAutoHotKeyのスクリプトを公開しています。
+このリポジトリには、FILCO Majestouch MINILAのキー配置を模擬したAutoHotKeyのスクリプトを公開しています。  
+対象OSはWindowsのみです。(元々、AutoHotKey自体がWindows向けなため)
 
 ## 機能
 - AutoHotKeyの、FILCO Majestouch MINILAを模擬したスクリプト。
